@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": "^5.6|^7.0",
-        "symfony/framework-bundle": "^2.3|^3.0",
-        "egeloen/google-map": "^2.0@dev"
+        "symfony/framework-bundle": "^3.*",
+        "fungio/google-map": "*"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^1.11",
