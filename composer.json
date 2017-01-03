@@ -1,5 +1,5 @@
 {
-    "name": "oshanrube/IvoryGoogleMapBundle",
+    "name": "oshanrube/ivorygooglemapbundle",
     "type": "symfony-bundle",
     "description": "Provides a google map integration for your Symfony2 Project.",
     "keywords": [ "google", "map" ],
