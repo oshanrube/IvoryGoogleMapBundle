@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": "^5.6|^7.0",
-        "symfony/framework-bundle": "^3.*",
+        "symfony/framework-bundle": "3.*",
         "fungio/google-map": "*"
     },
     "require-dev": {
